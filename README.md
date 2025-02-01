@@ -1,4 +1,5 @@
-# 4Sum
+<h1 align="center">Hi there, I'm <a>Ruzhalovich Ivan</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 Given an array nums of n integers, return an array of all the unique quadruplets [nums[a], nums[b], nums[c], nums[d]] such that:
 
